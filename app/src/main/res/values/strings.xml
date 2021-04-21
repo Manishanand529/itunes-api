@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My itunes App</string>
+    <string name="search_artist">Search Artist</string>
+    <string name="todo">TODO</string>
+</resources>
